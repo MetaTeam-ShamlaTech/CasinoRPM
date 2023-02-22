@@ -1,0 +1,34 @@
+{
+    "DealerCards": [
+        {
+            "CardSuit": "D",
+            "CardValue": "7"
+        },
+        {
+            "CardSuit": "H",
+            "CardValue": "7"
+        },
+        {
+            "CardSuit": "S",
+            "CardValue": "8"
+        }
+    ],
+    "PlayerCards": [
+        {
+            "CardSuit": "S",
+            "CardValue": "5"
+        },
+        {
+            "CardSuit": "C",
+            "CardValue": "9"
+        },
+        {
+            "CardSuit": "D",
+            "CardValue": "A"
+        },
+        {
+            "CardSuit": "S",
+            "CardValue": "7"
+        }
+    ]
+}
